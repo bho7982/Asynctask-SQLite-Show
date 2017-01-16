@@ -1,0 +1,7 @@
+#Mon Jan 16 10:01:35 KST 2017
+base.0=C\:\\Users\\inthetech\\Desktop\\OPEN\\TestAsyncTaskDataView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c48d468535dc4c747bc76bcdb6b6ffce1bdadd99
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\inthetech\\Desktop\\OPEN\\TestAsyncTaskDataView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c78258d976e5d670dd7a48cfc8f11fcbc62918ed\\classes.dex
+base.1=C\:\\Users\\inthetech\\Desktop\\OPEN\\TestAsyncTaskDataView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c78258d976e5d670dd7a48cfc8f11fcbc62918ed
+file.0=C\:\\Users\\inthetech\\Desktop\\OPEN\\TestAsyncTaskDataView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c48d468535dc4c747bc76bcdb6b6ffce1bdadd99\\classes.dex
